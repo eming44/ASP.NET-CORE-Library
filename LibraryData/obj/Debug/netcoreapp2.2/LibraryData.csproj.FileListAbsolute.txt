@@ -1,0 +1,11 @@
+C:\Users\eming\source\repos\Library\LibraryData\bin\Debug\netcoreapp2.2\LibraryData.deps.json
+C:\Users\eming\source\repos\Library\LibraryData\bin\Debug\netcoreapp2.2\LibraryData.dll
+C:\Users\eming\source\repos\Library\LibraryData\obj\Debug\netcoreapp2.2\LibraryData.csprojAssemblyReference.cache
+C:\Users\eming\source\repos\Library\LibraryData\obj\Debug\netcoreapp2.2\LibraryData.csproj.CoreCompileInputs.cache
+C:\Users\eming\source\repos\Library\LibraryData\obj\Debug\netcoreapp2.2\LibraryData.AssemblyInfoInputs.cache
+C:\Users\eming\source\repos\Library\LibraryData\obj\Debug\netcoreapp2.2\LibraryData.AssemblyInfo.cs
+C:\Users\eming\source\repos\Library\LibraryData\bin\Debug\netcoreapp2.2\LibraryData.runtimeconfig.json
+C:\Users\eming\source\repos\Library\LibraryData\bin\Debug\netcoreapp2.2\LibraryData.runtimeconfig.dev.json
+C:\Users\eming\source\repos\Library\LibraryData\bin\Debug\netcoreapp2.2\LibraryData.pdb
+C:\Users\eming\source\repos\Library\LibraryData\obj\Debug\netcoreapp2.2\LibraryData.dll
+C:\Users\eming\source\repos\Library\LibraryData\obj\Debug\netcoreapp2.2\LibraryData.pdb
